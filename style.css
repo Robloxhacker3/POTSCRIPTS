@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+  color: #111827;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+#search {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+#scripts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+  gap: 1rem;
+}
+.script-card {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+}
+.script-card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+}
+.script-card button {
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.6rem;
+  border: none;
+  background: #4f46e5;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.script-card button:hover {
+  opacity: 0.9;
+}
+a {
+  display: inline-block;
+  margin-top: 0.2rem;
+  font-size: 0.85rem;
+  color: #2563eb;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
