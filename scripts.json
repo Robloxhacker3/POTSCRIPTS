@@ -3,49 +3,49 @@
     "id": 1,
     "name": "Script 1",
     "image": "",
-    "link": "",
+    "link": "#", 
     "code": "-- Script 1\nprint('Hello from Script 1')"
   },
   {
     "id": 2,
     "name": "Script 2",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 2\nprint('Hello from Script 2')"
   },
   {
     "id": 3,
     "name": "Script 3",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 3\nprint('Hello from Script 3')"
   },
   {
     "id": 4,
     "name": "Script 4",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 4\nprint('Hello from Script 4')"
   },
   {
     "id": 5,
     "name": "Script 5",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 5\nprint('Hello from Script 5')"
   },
   {
     "id": 6,
     "name": "Script 6",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 6\nprint('Hello from Script 6')"
   },
   {
     "id": 7,
     "name": "Script 7",
     "image": "",
-    "link": "",
+    "link": "#",
     "code": "-- Script 7\nprint('Hello from Script 7')"
   }
 ]
